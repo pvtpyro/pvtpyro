@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Here are my stats for the past week: 
 
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=pvtpyro&hide_title=true&hide_border=true&langs_count=5)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=pvtpyro&hide_title=true&hide_border=true&langs_count=5)
